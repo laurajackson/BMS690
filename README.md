@@ -13,3 +13,7 @@ Required Outcomes:
  
 - Code Developed for Project
   - Emailed script files, or hosted on Github
+ 
+  ### Example Tutorial
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pachterlab/kallistobustools/blob/master/docs/tutorials/scRNA-seq_intro/python/scRNA-seq_intro.ipynb)
+  
