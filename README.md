@@ -39,7 +39,7 @@ We will be working through a single-cell RNA sequencing dataset using the R pack
 >See the example scRNA-seq tutorial in Google Colab linked below for more relevant background information on single-cell genomics, to get a better understanding of the wetlab process and techniques for generating single-cell RNA-seq datasets.
 <br>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pachterlab/kallistobustools/blob/master/docs/tutorials/scRNA-seq_intro/python/scRNA-seq_intro.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ru5q7LtLqsc_Z9bgZiN5sct0n0JzvJrU?usp=sharing)
 
 <img src="https://bioconductor.org/books/3.13/OSCA.intro/images/workflow.png" width="700" height="800">
 <i>image source:https://bioconductor.org/books/3.13/OSCA.intro/analysis-overview.html</i>
