@@ -35,8 +35,10 @@ Download the most recent versions of R, RStudio, and Seurat (R Toolkit for singl
 <br/>
 
 ### Bioinformatic Workflow
-We will be working through a single-cell RNA sequencing dataset using the R package Seurat. A typical workflow of scRNA-seq data analysis consists of preprocessing, data normalization, dimensionality reduction, clustering, differential gene expression, and gene expression dynamics analysis. See the example scRNA-seq tutorial developed in Google Colab linked below.
+We will be working through a single-cell RNA sequencing dataset using the R package Seurat. A typical workflow of scRNA-seq data analysis consists of preprocessing, data normalization, dimensionality reduction, clustering, differential gene expression, and gene expression dynamics analysis. 
+>See the example scRNA-seq tutorial in Google Colab linked below for more relevant background information on single-cell genomics, to get a better understanding of the wetlab process and techniques for generating single-cell RNA-seq datasets.
 <br>
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pachterlab/kallistobustools/blob/master/docs/tutorials/scRNA-seq_intro/python/scRNA-seq_intro.ipynb)
 
 <img src="https://bioconductor.org/books/3.13/OSCA.intro/images/workflow.png" width="700" height="800">
